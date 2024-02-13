@@ -3,10 +3,15 @@ News Catalog
 
 To see app : https://muhammadfahrulazmi322.github.io/newsCatalog/
 
+Not Return news ? use your API key from https://newsapi.org/
+
 For Use :
 
 1. npm install
-2. npm start
+2. set .env
+3. REACT_APP_NEWS_API_BASE_URL= "url news API"
+   REACT_APP_API_KEY= "YOUR API KEY"
+4. npm start
 
 Result For Application :
 
