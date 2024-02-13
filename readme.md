@@ -12,6 +12,7 @@ For Use :
 3. in .env field : 
 
    REACT_APP_NEWS_API_BASE_URL= https://newsapi.org/v2
+
    REACT_APP_API_KEY= YOUR API KEY
 
 4. npm start
