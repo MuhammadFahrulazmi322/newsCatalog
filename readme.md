@@ -8,8 +8,8 @@ Not Return news ? use your API key from https://newsapi.org/
 For Use :
 
 1. npm install
-2. set .env
-3. REACT_APP_NEWS_API_BASE_URL= "url news API"
+2. make file .env
+3. in .env field : REACT_APP_NEWS_API_BASE_URL= "url news API"
    REACT_APP_API_KEY= "YOUR API KEY"
 4. npm start
 
