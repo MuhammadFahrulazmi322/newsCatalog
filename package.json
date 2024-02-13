@@ -2,6 +2,7 @@
   "name": "news-starter",
   "version": "0.1.0",
   "private": true,
+  "homepage" :"http://MuhammadFahrulazmi322.github.io/newsCatalog",
   "dependencies": {
     "axios": "^0.21.4",
     "classnames": "2.2.6",
@@ -13,6 +14,8 @@
     "react-scripts": "^5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
