@@ -9,8 +9,11 @@ For Use :
 
 1. npm install
 2. make file .env
-3. in .env field : REACT_APP_NEWS_API_BASE_URL= "url news API"
-   REACT_APP_API_KEY= "YOUR API KEY"
+3. in .env field : 
+
+   REACT_APP_NEWS_API_BASE_URL= https://newsapi.org/v2
+   REACT_APP_API_KEY= YOUR API KEY
+
 4. npm start
 
 Result For Application :
